@@ -1,0 +1,3 @@
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\FileSystemAnalyzer\FileSystemAnalyzer\Ksu.Cis300.FileSystemAnalyzer\bin\Debug\Ksu.Cis300.FileSystemAnalyzer.exe.config
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\FileSystemAnalyzer\FileSystemAnalyzer\Ksu.Cis300.FileSystemAnalyzer\obj\Debug\Ksu.Cis300.FileSystemAnalyzer.exe
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\FileSystemAnalyzer\FileSystemAnalyzer\Ksu.Cis300.FileSystemAnalyzer\obj\Debug\Ksu.Cis300.FileSystemAnalyzer.pdb

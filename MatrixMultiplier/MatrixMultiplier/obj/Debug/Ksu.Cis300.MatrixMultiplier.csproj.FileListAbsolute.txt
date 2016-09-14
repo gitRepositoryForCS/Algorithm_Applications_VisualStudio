@@ -1,0 +1,21 @@
+C:\Users\yingchen\Desktop\Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\bin\Debug\Ksu.Cis300.MatrixMultiplier.exe.config
+C:\Users\yingchen\Desktop\Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\yingchen\Desktop\Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.UserInterface.resources
+C:\Users\yingchen\Desktop\Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.Properties.Resources.resources
+C:\Users\yingchen\Desktop\Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.csproj.GenerateResource.Cache
+C:\Users\yingchen\Desktop\Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\bin\Debug\Ksu.Cis300.MatrixMultiplier.exe
+C:\Users\yingchen\Desktop\Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\bin\Debug\Ksu.Cis300.MatrixMultiplier.pdb
+C:\Users\yingchen\Desktop\Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.exe
+C:\Users\yingchen\Desktop\Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.pdb
+C:\Users\yingchen\Desktop\V1 Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\bin\Debug\Ksu.Cis300.MatrixMultiplier.exe.config
+C:\Users\yingchen\Desktop\V1 Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.exe
+C:\Users\yingchen\Desktop\V1 Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.pdb
+C:\Users\yingchen\Desktop\V1 Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\bin\Debug\Ksu.Cis300.MatrixMultiplier.exe
+C:\Users\yingchen\Desktop\V1 Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\bin\Debug\Ksu.Cis300.MatrixMultiplier.pdb
+C:\Users\yingchen\Desktop\V1 Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\yingchen\Desktop\V1 Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.UserInterface.resources
+C:\Users\yingchen\Desktop\V1 Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.Properties.Resources.resources
+C:\Users\yingchen\Desktop\V1 Ksu.Cis300.MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\bin\Debug\Ksu.Cis300.MatrixMultiplier.exe.config
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.exe
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\MatrixMultiplier\Ksu.Cis300.MatrixMultiplier\obj\Debug\Ksu.Cis300.MatrixMultiplier.pdb

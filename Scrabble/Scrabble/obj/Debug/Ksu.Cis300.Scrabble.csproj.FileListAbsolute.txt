@@ -1,0 +1,32 @@
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.Scrabble.exe.config
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.Scrabble.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.Scrabble.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.csprojResolveAssemblyReference.cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.Properties.Resources.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.UserInterface.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.csproj.GenerateResource.Cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.SeedForm.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.ScrabbleLibrary.dll
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.BlankTileForm.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.TradeForm.resources
+C:\Users\yingchen\Desktop\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.Scrabble.exe.config
+C:\Users\yingchen\Desktop\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.exe
+C:\Users\yingchen\Desktop\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.pdb
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.Scrabble.exe.config
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.exe
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.pdb
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.Scrabble.exe
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.Scrabble.pdb
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.ScrabbleLibrary.dll
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.csprojResolveAssemblyReference.cache
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.BlankTileForm.resources
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.Properties.Resources.resources
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.SeedForm.resources
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.TradeForm.resources
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.UserInterface.resources
+C:\Users\yingchen\Desktop\300_hw_\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.Scrabble.exe.config
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.exe
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.pdb

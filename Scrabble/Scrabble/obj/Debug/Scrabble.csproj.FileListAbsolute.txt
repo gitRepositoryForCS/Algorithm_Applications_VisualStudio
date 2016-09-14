@@ -1,0 +1,3 @@
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\Scrabble\Ksu.Cis300.Scrabble\bin\Debug\Ksu.Cis300.Scrabble.exe.config
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.exe
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\Scrabble\Ksu.Cis300.Scrabble\obj\Debug\Ksu.Cis300.Scrabble.pdb

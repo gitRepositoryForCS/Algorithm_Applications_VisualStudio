@@ -1,0 +1,57 @@
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe.config
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.Properties.Resources.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.UserInterface.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csproj.GenerateResource.Cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor2\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe.config
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor2\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor2\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor2\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor2\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor2\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor2\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.Properties.Resources.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor2\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.UserInterface.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor2\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csproj.GenerateResource.Cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor3\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe.config
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor3\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor3\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor3\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor3\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor3\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor3\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.Properties.Resources.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor3\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.UserInterface.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor3\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csproj.GenerateResource.Cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe.config
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.Properties.Resources.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.UserInterface.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csproj.GenerateResource.Cache
+C:\Users\yingchen\Desktop\Ksu.Cis300.TextEditor4 (1)\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe.config
+C:\Users\yingchen\Desktop\Ksu.Cis300.TextEditor4 (1)\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\yingchen\Desktop\Ksu.Cis300.TextEditor4 (1)\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\yingchen\Desktop\Ksu.Cis300.TextEditor4 (1)\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\yingchen\Desktop\Ksu.Cis300.TextEditor4 (1)\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\yingchen\Desktop\Ksu.Cis300.TextEditor4 (1)\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\yingchen\Desktop\Ksu.Cis300.TextEditor4 (1)\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.Properties.Resources.resources
+C:\Users\yingchen\Desktop\Ksu.Cis300.TextEditor4 (1)\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.UserInterface.resources
+C:\Users\yingchen\Desktop\Ksu.Cis300.TextEditor4 (1)\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csproj.GenerateResource.Cache
+C:\Users\yingchen\Desktop\lsw\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe.config
+C:\Users\yingchen\Desktop\lsw\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\yingchen\Desktop\lsw\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\yingchen\Desktop\lsw\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\yingchen\Desktop\lsw\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\yingchen\Desktop\lsw\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\yingchen\Desktop\lsw\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.Properties.Resources.resources
+C:\Users\yingchen\Desktop\lsw\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.UserInterface.resources
+C:\Users\yingchen\Desktop\lsw\Ksu.Cis300.TextEditor4\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\TextEditor\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe.config
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.exe
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.pdb

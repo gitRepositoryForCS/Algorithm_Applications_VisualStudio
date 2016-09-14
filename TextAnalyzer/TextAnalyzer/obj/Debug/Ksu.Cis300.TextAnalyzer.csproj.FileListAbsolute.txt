@@ -1,0 +1,13 @@
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.exe.config
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.exe
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.pdb
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\bin\Debug\KansasStateUniversity.TreeViewer2.dll
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.Properties.Resources.resources
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.UserInterface.resources
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.csproj.GenerateResource.Cache
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.exe
+C:\Users\yingchen\Desktop\300_hw_\hw5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.pdb
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\TextAnalyzer\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.exe.config
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.exe
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.pdb

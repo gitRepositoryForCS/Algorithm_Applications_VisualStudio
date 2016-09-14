@@ -1,0 +1,18 @@
+U:\CIS300 VisualStudio Projects\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\bin\Debug\Ksu.Cis300.WebBrowser.exe.config
+U:\CIS300 VisualStudio Projects\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\bin\Debug\Ksu.Cis300.WebBrowser.exe
+U:\CIS300 VisualStudio Projects\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\bin\Debug\Ksu.Cis300.WebBrowser.pdb
+U:\CIS300 VisualStudio Projects\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.csprojResolveAssemblyReference.cache
+U:\CIS300 VisualStudio Projects\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.Properties.Resources.resources
+U:\CIS300 VisualStudio Projects\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.csproj.GenerateResource.Cache
+U:\CIS300 VisualStudio Projects\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.exe
+U:\CIS300 VisualStudio Projects\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.pdb
+U:\CIS300 VisualStudio Projects\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.UserInterface.resources
+C:\Users\yingchen\Desktop\Michael_Tristan_Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\bin\Debug\Ksu.Cis300.WebBrowser.exe.config
+C:\Users\yingchen\Desktop\Michael_Tristan_Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.exe
+C:\Users\yingchen\Desktop\Michael_Tristan_Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.pdb
+C:\Users\yingchen\Desktop\300_Lab\1 Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\bin\Debug\Ksu.Cis300.WebBrowser.exe.config
+C:\Users\yingchen\Desktop\300_Lab\1 Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.exe
+C:\Users\yingchen\Desktop\300_Lab\1 Ksu.Cis300.WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.pdb
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\WebBrowser\Ksu.Cis300.WebBrowser\bin\Debug\Ksu.Cis300.WebBrowser.exe.config
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.exe
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\WebBrowser\Ksu.Cis300.WebBrowser\obj\Debug\Ksu.Cis300.WebBrowser.pdb
