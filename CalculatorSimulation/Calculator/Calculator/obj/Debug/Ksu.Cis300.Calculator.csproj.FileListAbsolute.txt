@@ -1,0 +1,39 @@
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.exe.config
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.pdb
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.csprojResolveAssemblyReference.cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.Properties.Resources.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.UserInterface.resources
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.csproj.GenerateResource.Cache
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.exe
+C:\Users\rhowell\Google Drive\VS 2013 Projects\300 Spring 2014\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.pdb
+C:\Users\cying\Downloads\Ksu.Cis300.Calculator (1)\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.exe.config
+C:\Users\cying\Downloads\Ksu.Cis300.Calculator (1)\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.exe
+C:\Users\cying\Downloads\Ksu.Cis300.Calculator (1)\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.pdb
+C:\Users\cying\Downloads\Ksu.Cis300.Calculator (1)\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.csprojResolveAssemblyReference.cache
+C:\Users\cying\Downloads\Ksu.Cis300.Calculator (1)\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.Properties.Resources.resources
+C:\Users\cying\Downloads\Ksu.Cis300.Calculator (1)\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.UserInterface.resources
+C:\Users\cying\Downloads\Ksu.Cis300.Calculator (1)\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.csproj.GenerateResource.Cache
+C:\Users\cying\Downloads\Ksu.Cis300.Calculator (1)\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.exe
+C:\Users\cying\Downloads\Ksu.Cis300.Calculator (1)\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.pdb
+C:\Users\Shiwei\Desktop\studentdownload\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.exe.config
+C:\Users\Shiwei\Desktop\studentdownload\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.exe
+C:\Users\Shiwei\Desktop\studentdownload\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.pdb
+C:\Users\Shiwei\Desktop\studentdownload\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.exe
+C:\Users\Shiwei\Desktop\studentdownload\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.pdb
+C:\Users\Shiwei\Desktop\studentdownload\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Shiwei\Desktop\studentdownload\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.Properties.Resources.resources
+C:\Users\Shiwei\Desktop\studentdownload\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.UserInterface.resources
+C:\Users\Shiwei\Desktop\studentdownload\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.csproj.GenerateResource.Cache
+C:\Users\Shiwei\Desktop\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.exe.config
+C:\Users\Shiwei\Desktop\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.exe
+C:\Users\Shiwei\Desktop\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.pdb
+C:\Users\Shiwei\Desktop\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Shiwei\Desktop\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.Properties.Resources.resources
+C:\Users\Shiwei\Desktop\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.UserInterface.resources
+C:\Users\Shiwei\Desktop\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.csproj.GenerateResource.Cache
+C:\Users\Shiwei\Desktop\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.exe
+C:\Users\Shiwei\Desktop\Chen_Ying_Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.pdb
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\CalculatorSimulation\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\bin\Debug\Ksu.Cis300.Calculator.exe.config
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\CalculatorSimulation\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.exe
+\\vmware-host\Shared Folders\Documents\bbb_job\2Resumes\explaination\untitledfolder\300\CalculatorSimulation\Ksu.Cis300.Calculator\Ksu.Cis300.Calculator\obj\Debug\Ksu.Cis300.Calculator.pdb
